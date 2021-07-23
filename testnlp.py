@@ -31,4 +31,3 @@ print(data_stem_lem)
 
 wnl=WordNetLemmatizer()
 print(wnl.lemmatize("is"))
-print("github")
